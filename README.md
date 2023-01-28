@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello! 👋
+
+I'm just young boy who is trying to learn some ✨IT✨ stuff.
 
 <!--
 **thomasneverland/thomasneverland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
