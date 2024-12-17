@@ -1,4 +1,4 @@
-## Hello! 👋
+# Hello! 👋
 
 I'm just young boy who is trying to learn some ✨IT✨ stuff.
 
